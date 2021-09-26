@@ -8,22 +8,7 @@ image: https://source.unsplash.com/BcoGknSqlDc/2000x1322?a=.png
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1 class="editable">Nuestra historia</h1>
-			<p class="subtext editable">[Somos un...].</p>
+			<p class="subtext editable">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh nisl condimentum id. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque eleifend. Dictum varius duis at consectetur. Venenatis a condimentum vitae sapien pellentesque habitant morbi. Ornare massa eget egestas purus viverra accumsan in. Tellus integer feugiat scelerisque varius. Ut pharetra sit amet aliquam id diam maecenas ultricies. Netus et malesuada fames ac turpis egestas maecenas. Morbi leo urna molestie at elementum eu facilisis sed. Nulla aliquet enim tortor at. Etiam non quam lacus suspendisse faucibus interdum posuere lorem. Id nibh tortor id aliquet. Lectus sit amet est placerat in egestas erat. Faucibus a pellentesque sit amet. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Sagittis nisl rhoncus mattis rhoncus urna. Vitae semper quis lectus nulla. Dui vivamus arcu felis bibendum.</p>
 		</div>
-	</div>
-</section>
-
-<section class="pad">
-	<div class="container">
-		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
-		<ul class="staff">
-			{% for person in site.staff_members %}
-				<li>
-					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-					<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></div>
-					<div class="position">{{ person.position }}</div>
-				</li>
-			{% endfor %}
-		</ul>
 	</div>
 </section>
