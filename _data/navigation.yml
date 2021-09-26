@@ -1,6 +1,8 @@
-- name: Blog
-  link: /blog/
-- name: About
+- name: DeVolver ConCiencia
   link: /about/
-- name: Contact
+- name: ¿Quienes somos?
+  link: /quienessomos/
+- name: Charlas pasadas
+  link: /blog/
+- name: Contacto
   link: /contact/
