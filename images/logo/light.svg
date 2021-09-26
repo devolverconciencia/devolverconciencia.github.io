@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 104 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <path d="M4,24.629L6,24.629L6,12.629L4,12.629L4,24.629ZM8,28.629L10,28.629L10,8.629L8,8.629L8,28.629ZM0,20.629L2,20.629L2,16.629L0,16.629L0,20.629ZM12,24.629L14,24.629L14,12.629L12,12.629L12,24.629ZM16,16.629L16,20.629L18,20.629L18,16.629L16,16.629Z" style="fill:rgb(35,31,32);fill-rule:nonzero;"/>
+    <path d="M4,24.629L6,24.629L6,12.629L4,12.629L4,24.629ZM8,28.629L10,28.629L10,8.629L8,8.629L8,28.629ZM0,20.629L2,20.629L2,16.629L0,16.629L0,20.629ZM12,24.629L14,24.629L14,12.629L12,12.629L12,24.629ZM16,16.629L16,20.629L18,20.629L18,16.629L16,16.629Z" style="fill:white;fill-rule:nonzero;"/>
     <g transform="matrix(1,0,0,1,14.6921,13.7181)">
-        <text x="13.117px" y="2.985px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;">DeV<tspan x="43.359px 52.257px " y="2.985px 2.985px ">ol</tspan>ver</text>
+        <g>
+            <g transform="matrix(1,0,0,1,13.117,2.985)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">DeV</text>
+            </g>
+            <g transform="matrix(1,0,0,1,43.359,2.985)">
+                <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">olver</text>
+            </g>
+        </g>
     </g>
-    <g transform="matrix(1,0,0,1,5.46209,31.0006)">
-        <text x="13.117px" y="2.985px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;">ConCiencia</text>
+    <g transform="matrix(1,0,0,1,18.5791,33.9856)">
+        <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:white;">ConCiencia</text>
     </g>
 </svg>
